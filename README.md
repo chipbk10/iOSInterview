@@ -1,5 +1,6 @@
 # iOSInterview
 
+## [Architecture](https://github.com/chipbk10/iOSInterview/blob/main/Architecture/README.md)
 ## [Concurrency](https://github.com/chipbk10/iOSInterview/blob/main/Concurrency/README.md)
 ## [Modularization](https://github.com/chipbk10/iOSInterview/blob/main/Modularization/README.md)
 ## [Dependency Management](https://github.com/chipbk10/iOSInterview/blob/main/DependencyManagement/README.md)
