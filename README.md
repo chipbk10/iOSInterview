@@ -11,4 +11,5 @@
 ## [Swift](https://github.com/chipbk10/iOSInterview/blob/main/Swift.md)
 ## [Push Notification](https://github.com/chipbk10/iOSInterview/blob/main/PushNotification.md)
 ## [Behavioral](https://github.com/chipbk10/iOSInterview/blob/main/Behavioral.md)
+## [Others](https://github.com/chipbk10/iOSInterview/blob/main/Others.md)
 
