@@ -1,3 +1,4 @@
 # Tools
 
-## [Network Link Conditioner: throttle network](https://nshipster.com/network-link-conditioner/)
+## [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)
+- throttle network
