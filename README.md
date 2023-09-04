@@ -14,3 +14,8 @@
 ## [Others](https://github.com/chipbk10/iOSInterview/blob/main/Others.md)
 ## [Tools](https://github.com/chipbk10/iOSInterview/blob/main/Tools.md)
 
+## Others
+- [Solve Me link](https://shorturl.at/kqxM6)
+- [https://www.linkedin.com/in/chipbk10/](https://www.linkedin.com/in/chipbk10/)
+- [https://chipbk10.wordpress.com/projects/](https://chipbk10.wordpress.com/projects/)
+- [https://github.com/chipbk10](https://github.com/chipbk10)
