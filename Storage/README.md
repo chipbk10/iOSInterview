@@ -13,6 +13,14 @@
 - manages a complex object graph with many entities, attributes, relationships
 - learning curve
 
+## SwiftUI
+
+- is built on top of Core Data (Core Data is not a native solution for both Swift and SwiftUI)
+- starting from iOS17+
+- as long as the model class is annotated with @Model, SwiftData will automatically observe the change and write the update to the database (SQLite)
+- with SwiftData, there’s no need to worry about connecting to the database or understanding SQL in order to retrieve data records.
+- source: [swiftData](https://www.appcoda.com/swiftdata/)
+
 ## File, Plist
 
 - Plist: Key & Value (simple type) pattern
