@@ -1,4 +1,4 @@
 # Others
 
 - [autoclosure](https://www.avanderlee.com/swift/autoclosure/)
-- [frozen]()
+- [frozen, unknown default]()
