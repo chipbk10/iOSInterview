@@ -50,6 +50,10 @@
 - Then we need a system that syncs changes in DB to the server
 - We have to handle the syncs failure or sync conflicts
 
+## SwiftData
+
+- @Todo
+
 # Conclusion
 
 - If the device is jail broken, none of your data is secure
