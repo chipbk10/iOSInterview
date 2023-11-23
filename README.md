@@ -10,7 +10,7 @@
 ## [Objective-C](https://github.com/chipbk10/iOSInterview/blob/main/ObjectiveC.md)
 ## [Swift](https://github.com/chipbk10/iOSInterview/blob/main/Swift.md)
 ## [Push Notification](https://github.com/chipbk10/iOSInterview/blob/main/PushNotification.md)
-## [Combine](https://github.com/chipbk10/iOSInterview/tree/main/Combine)
+## [React](https://github.com/chipbk10/iOSInterview/tree/main/React/README.md)
 ## [Behavioral](https://github.com/chipbk10/iOSInterview/blob/main/Behavioral.md)
 ## [Others](https://github.com/chipbk10/iOSInterview/blob/main/Others.md)
 ## [Tools](https://github.com/chipbk10/iOSInterview/blob/main/Tools.md)
